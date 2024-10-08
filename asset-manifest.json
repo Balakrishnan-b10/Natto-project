@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fefd806d.css",
+    "main.js": "/static/js/main.f3c10e63.js",
+    "static/js/453.8ab44547.chunk.js": "/static/js/453.8ab44547.chunk.js",
+    "static/media/3135954-hd_1920_1080_30fps.mp4": "/static/media/3135954-hd_1920_1080_30fps.e4247e474689b9d14d32.mp4",
+    "static/media/pexels-anna-guerrero-788383-1956974.jpg": "/static/media/pexels-anna-guerrero-788383-1956974.c3405955d0c00d4398f7.jpg",
+    "static/media/pexels-vitaliy-haiduk-326720599-17308464.jpg": "/static/media/pexels-vitaliy-haiduk-326720599-17308464.94ba7d3d1665b6cbb3d5.jpg",
+    "static/media/pexels-hson-19647394.jpg": "/static/media/pexels-hson-19647394.9f1465cef66fdf1f1f52.jpg",
+    "static/media/pexels-yaroslav-shuraev-9632629.jpg": "/static/media/pexels-yaroslav-shuraev-9632629.f25bf014d3549d714b14.jpg",
+    "static/media/video.png": "/static/media/video.9cbb7b96c974e9bf2860.png",
+    "static/media/pexels-darren-fan-1617868075-27528186.jpg": "/static/media/pexels-darren-fan-1617868075-27528186.db8036073495a2efc270.jpg",
+    "static/media/pexels-nguyen-ngoc-tien-1321490019-27258692.jpg": "/static/media/pexels-nguyen-ngoc-tien-1321490019-27258692.25413e92bb39c5c61d0b.jpg",
+    "static/media/pexels-rajesh-tp-749235-1603901.jpg": "/static/media/pexels-rajesh-tp-749235-1603901.460c2a083e43998c99ff.jpg",
+    "static/media/pexels-viridianaor-28097405.jpg": "/static/media/pexels-viridianaor-28097405.beb9a6e854832792f54a.jpg",
+    "static/media/pexels-norma-mortenson-4393668.jpg": "/static/media/pexels-norma-mortenson-4393668.228e721c996259838649.jpg",
+    "static/media/pexels-polina-tankilevitch-4109069.jpg": "/static/media/pexels-polina-tankilevitch-4109069.615a25415e8437d48a98.jpg",
+    "static/media/pexels-owpictures-106343.jpg": "/static/media/pexels-owpictures-106343.b722d48c05cb09fe1497.jpg",
+    "static/media/bg-new-1.png": "/static/media/bg-new-1.d13d615c6b42a26fc80a.png",
+    "static/media/frame3.png": "/static/media/frame3.904f7cc3c78203c58499.png",
+    "static/media/1chef.jpg": "/static/media/1chef.ae91b356f54480da24a9.jpg",
+    "static/media/frame2.png": "/static/media/frame2.588e088d1a71d0fe6c98.png",
+    "static/media/frame1.png": "/static/media/frame1.d76978d81ec9b1a1519a.png",
+    "static/media/2chef.jpg": "/static/media/2chef.3dac28e80a16c7dcafd8.jpg",
+    "static/media/3owner.jpg": "/static/media/3owner.21780fca18302ce348de.jpg",
+    "index.html": "/index.html",
+    "main.fefd806d.css.map": "/static/css/main.fefd806d.css.map",
+    "main.f3c10e63.js.map": "/static/js/main.f3c10e63.js.map",
+    "453.8ab44547.chunk.js.map": "/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fefd806d.css",
+    "static/js/main.f3c10e63.js"
+  ]
+}
